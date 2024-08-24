@@ -1,0 +1,51 @@
+1 {
+    background-color: rgb(183, 122, 239);
+    border: red solid;
+    border-radius: 15px;
+    text-align: center;
+}
+em {
+    color: red;
+}
+h2 {
+    color: green;
+}
+h3 {
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+img {
+    width: 700px;
+    height: 400px;
+    text-align: center;
+}
+ .div {
+background-color: black;
+text-align: center;
+}
+.ff {
+    background-color: deepskyblue;
+    color: white;
+    width: 200px;
+}
+.y {
+    background-color: green;
+    color: white;
+    width: 150px;
+}
+.u {
+    background-color: blue;
+    color: white;
+    width: 800px;
+}
+.d {
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+.h {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
